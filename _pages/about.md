@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Graduate student. Structural biologist in-training.
-
+subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Graduate student. Structural biologist in training.
 profile:
   align: right
   image: pic.jpg
   image_cicular: true # crops the image to make it circular
   address: >
     <p>Photo by <a href="https://gazifuad.com/">Gazi Fuad</a></p>
-
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
