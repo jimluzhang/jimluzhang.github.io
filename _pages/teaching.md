@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ## for context
-When I was starting to apply to programs and fellowships, I felt pretty overwhelmed at the thought of writing. In reponse, I started looking at samples online and combed through threads of previous applicants sharing their perspectives. While the advice people give can be conflicting (if not misleading), I ultimately found it helpful and, by sharing my documents, hope these can be of service. In doing so, I ask that you respect my intellectual property and practice academic integrity. 
+When I was starting to apply to programs and fellowships, I felt pretty overwhelmed at the thought of having to writing about myself -- along with graduate school as a whole. To that end, I was incredibly fortunate to have received help from those more familiar with the process, in addition to reading over what they wrote in their personal statements. By sharing my own writing samples, I hope to pay it forward. In doing so, please respect my intellectual property and practice academic honesty!
 
 For context, I applied to Ph.D. programs and the NSF-GRFP as a senior undergraduate; I applied to the Goldwater Scholarship as a junior undergraduate. Please don't hesitate to reach out if you have any questions!
 
