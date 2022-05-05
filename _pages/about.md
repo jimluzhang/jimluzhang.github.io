@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a PhD candidate at Stanford Med in the Structural Biology/Biophysics program and a National Science Foundation Graduate Research Fellow. 
 
-I'm passionate about scientific communication, teaching, and supporting fellow first generation, low-income researchers.
+I'm passionate about scientific communication, teaching, and supporting fellow first generation, low-income students.
 
 During my time at Rice University, I was enrolled in a dual-degree BS-MS program. Here, I worked in the laboratory of <a href='https://ytao.rice.edu'>Yizhi Jane Tao</a> on solving the structures of viral proteins, which helps us characterize the molecular events underlying entry and infection. For my undergraduate honors thesis, I discussed the expression and purification of a novel, filamentous virus with a double-stranded RNA genome; my MS thesis presented the virion structure of the *C. elegans*-infecting Orsay virus, solved with cryo-EM single-particle analysis.
 
