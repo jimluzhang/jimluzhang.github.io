@@ -6,7 +6,7 @@ subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford Univers
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Photo by <a href="https://gazifuad.com/">Gazi Fuad</a></p>
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD candidate at Stanford Med in the Structural Biology/Biophysics program and a National Science Foundation Graduate Research Fellow. 
+I'm a PhD student at Stanford Med in the Structural Biology/Biophysics program and a National Science Foundation Graduate Research Fellow. 
 
 I'm passionate about scientific communication, teaching, and supporting fellow first generation, low-income students.
 
