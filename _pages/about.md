@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Structural Biology/Biophysics. Academic-hopeful.
+subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Structural Biology. Academic-hopeful.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD student at Stanford Med in the Structural Biology/Biophysics program and a National Science Foundation Graduate Research Fellow. 
+I'm a PhD student at Stanford Med in the Structural Biology department and a National Science Foundation Graduate Research Fellow. 
 
 I'm passionate about scientific communication, teaching, and supporting fellow first generation, low-income students.
 
