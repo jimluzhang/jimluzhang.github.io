@@ -22,6 +22,6 @@ I'm passionate about scientific communication, teaching, and supporting fellow f
 
 During my time at Rice University, I was enrolled in a dual-degree BS-MS program. Here, I worked in the laboratory of <a href='https://ytao.rice.edu'>Yizhi Jane Tao</a> on solving the structures of viral proteins, which helps us characterize the molecular events underlying entry and infection. For my undergraduate honors thesis, I discussed the expression and purification of a novel, filamentous virus with a double-stranded RNA genome; my MS thesis presented the virion structure of the *C. elegans*-infecting Orsay virus, solved with cryo-EM single-particle analysis.
 
-As I continue my graduate studies, I hope to incorporate upcoming, *in situ* structural biology techniques such as cryo-ET to understand fundamental processes in cell biology, signaling, and transport. Outside the lab, I enjoy exploring new places to eat, experimenting in the kitchen, and playing board games.
+As I continue my graduate studies, I hope to incorporate *in situ* structural biology techniques such as cryo-ET to understand fundamental processes in cell biology, signaling, and transport. Outside the lab, I enjoy exploring new places to eat, experimenting in the kitchen, and playing board games.
 
 You can find my CV <a href='https://jimluzhang.com/assets/pdf/JLZ_CV.pdf'>here</a>, or linked above. 
