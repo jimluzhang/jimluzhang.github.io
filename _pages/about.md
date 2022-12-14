@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Structural Biology. Academic-hopeful.
+subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Graduate student, structural biologist in-training, and hopeful academic.
 
 profile:
   align: right
