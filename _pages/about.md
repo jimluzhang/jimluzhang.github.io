@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
+
 subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>. Graduate student. Structural biologist in training.
+
 profile:
   align: right
   image: pic.jpg
