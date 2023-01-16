@@ -7,7 +7,7 @@ subtitle: <a href='https://med.stanford.edu/structuralbio.html'>Stanford Univers
 profile:
   align: right
   image: pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image_cicular: true # crops the image to make it circular
   address: >
     <p>Photo by <a href="https://gazifuad.com/">Gazi Fuad</a></p>
 
