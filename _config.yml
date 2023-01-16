@@ -139,7 +139,6 @@ giscus:
   lang: 
 
 # Disqus comments (DEPRECATED)
-# Comments
 disqus_shortname: jimluzhang # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
