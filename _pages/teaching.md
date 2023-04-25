@@ -20,7 +20,7 @@ I wrote my CV using a standard word processor. The one attached below is more up
 <br>
 
 ## graduate school
-I interviewed with 5 programs: UC Berkeley (MCB), Harvard Med (BBS), Stanford Med (Biosciences - Structural Biology), UCSF (Tetrad), and UChicago (BMB). I was ultimately accepted into all of them, and below is a representative copy of the statement of purpose I submitted. UC Berkeley was unique in that it required an additional personal statement, so I've attached that as well in case it might be of any help.  
+I interviewed with 5 programs: UC Berkeley (MCB), Harvard Med (BBS), Stanford Med (Biosciences - Structural Biology), UCSF (Tetrad), and UChicago (BMB). Below is a representative copy of the statement of purpose I submitted. UC Berkeley was unique in that it required an additional personal statement, so I've attached that as well in case it might be of any help.  
 
 <br>
 <a href='https://jimluzhang.com/assets/pdf/JLZ_SOP.pdf'>Statement of Purpose (Stanford)</a> | <a href='https://jimluzhang.com/assets/pdf/JLZ_PS.pdf'>Personal Statement (Berkeley)</a>  
