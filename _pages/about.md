@@ -6,7 +6,7 @@ permalink: /
 subtitle: Graduate student at <a href='https://med.stanford.edu/structuralbio.html'>Stanford University</a>.
 
 profile:
-  align: left
+  align: right
   image: pic.jpg
   image_cicular: true # crops the image to make it circular
   address: >
