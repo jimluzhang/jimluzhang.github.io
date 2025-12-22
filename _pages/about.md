@@ -8,8 +8,8 @@ subtitle: Graduate student at <a href='https://med.stanford.edu/structuralbio.ht
 profile:
   align: right
   image: pic.jpg
-  image_cicular: true # crops the image to make it circular
-  address: >
+  image_cicular: false # crops the image to make it circular
+  more_info: >
     <p>Photo by <a href="https://gazifuad.com/">Gazi Fuad</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
