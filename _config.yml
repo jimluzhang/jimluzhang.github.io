@@ -191,18 +191,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md
-  - _pages/news.md
-  - _pages/blog.md
-  - _pages/books.md
-  - _pages/cv.md
-  - _pages/dropdown.md
-  - _pages/projects.md
-  - _pages/profiles.md
-  - _pages/repositories.md
-  - _posts/
-  - _projects/?_project.md
-  - assets/jupyter/blog.ipynb
 keep_files:
   - CNAME
   - .nojekyll
@@ -360,7 +348,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
@@ -382,7 +370,7 @@ imagemagick:
 #   You can also set loading="" to other values for specific images to override the default behavior.
 #   Options: "auto", "eager", "lazy"
 #   See https://web.dev/browser-level-image-lazy-loading/ for more information.
-lazy_loading_images: true # enables lazy loading of images (recommended)
+lazy_loading_images: false # enables lazy loading of images (recommended)
 
 # -----------------------------------------------------------------------------
 # Optional Features
