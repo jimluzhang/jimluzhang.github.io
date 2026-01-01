@@ -28,7 +28,7 @@ latest_posts:
 
 I'm a PhD Candidate at Stanford affiliated with the Department of Structural Biology and Department of Molecular and Cellular Physiology. My research focuses on the molecular mechanisms of transporter proteins, which are used by cells to selectively shuttle around cargo -- such as ions and nutrients -- to sustain function and execute signals. 
 
-I'm advised by Liang Feng and supported by the NSF Graduate Research Fellowship, NIH National Research Service Award, and the Blavatnik Family Foundation. 
+I'm advised by <a href='https://profiles.stanford.edu/liang-feng'>Liang Feng</a> and supported by the NSF Graduate Research Fellowship, NIH National Research Service Award, and the Blavatnik Family Foundation. 
 
 I completed my undergraduate studies at Rice University in a dual-degree BS-MS program. Here, I worked in the laboratory of <a href='https://ytao.rice.edu'>Yizhi Jane Tao</a> on characterizing the structure and function of viral proteins, which helps us characterize the molecular events underlying entry and infection. For my undergraduate honors thesis, I discussed the expression and purification of a novel, filamentous virus with a double-stranded RNA genome; my MS thesis presented the virion structure of the *C. elegans*-infecting Orsay virus, solved with cryo-EM single-particle analysis.
 
